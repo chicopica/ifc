@@ -1,0 +1,2 @@
+O site possui como tema Pokemon, sua paleta de cores tem haver com o pokemon: Pikachu, querido entre os fans, o fundo amarelo e a cor que o comando "hover" possui é amarelo fazem referencia ao mesmo; a cor vermelha representa um item chamado pokebola; para navegar pelo site, basta clicar nas funções: início, pokedex e sobre!;
+a class : .container serve para centralizar e limitar a largura do conteúdo da tag "main".
