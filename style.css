@@ -1,0 +1,60 @@
+
+body {
+  background-color: white;
+  margin: 0;
+  color: #222;
+  background-color: lightyellow;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  background-color: #E3350D; 
+  padding: 16px;
+  margin: 0;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: #FFCB05; 
+}
+
+h1, h2 {
+  font-family: 'Press Start 2P', cursive;
+  color: #E3350D;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+  background: white;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background: #FFCB05;
+}
+.pok {
+background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png) no-repeat center center;
+background-size: contain;
+display: block;
+width: 100%;
+height: 300px;
+}
